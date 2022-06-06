@@ -1,0 +1,4 @@
+command -> 1
+battery? -> 1
+takeoff -> 1
+land -> 1
